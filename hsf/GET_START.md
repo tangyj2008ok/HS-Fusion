@@ -1,0 +1,1 @@
+The checkpoint of HS-Fusion that upload for KITTI website can be down load at:https://drive.google.com/file/d/1V9d2wI-m9IDR1lPAXlsnbyYzKwssiDUZ/view?usp=drive_link
